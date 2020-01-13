@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestQueConnect", "TestQueConnect\TestQueConnect.csproj", "{9BC34FF0-5CC2-482F-B33D-9C2B93D6266B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BC34FF0-5CC2-482F-B33D-9C2B93D6266B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC34FF0-5CC2-482F-B33D-9C2B93D6266B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC34FF0-5CC2-482F-B33D-9C2B93D6266B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC34FF0-5CC2-482F-B33D-9C2B93D6266B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE476CF-889A-4BE9-9D39-A637148340AC}
+	EndGlobalSection
+EndGlobal

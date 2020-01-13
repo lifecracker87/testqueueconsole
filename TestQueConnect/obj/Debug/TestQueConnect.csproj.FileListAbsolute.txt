@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\bin\Debug\TestQueConnect.exe.config
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\bin\Debug\TestQueConnect.exe
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\bin\Debug\TestQueConnect.pdb
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\bin\Debug\queueConnect.dll
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\bin\Debug\queueConnect.pdb
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.csproj.CopyComplete
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.exe
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.pdb
+C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.csprojAssemblyReference.cache
