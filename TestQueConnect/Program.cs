@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -17,7 +18,7 @@ namespace TestQueConnect
              */
             string serverIp = "10.10.10.171"; //url to be connected to the queue machine
             string db = "UniQUEUE"; //database to connect 
-            int serviceId = 2; //Service id set by the queue system; i,e Deposit,Cash..etc.
+            int serviceId = 1; //Service id set by the queue system; i,e Deposit,Cash..etc.
             if (args != null && args.Length > 0) {
                 serverIp = args[0] != null ? args[0] : serverIp;
                 db = args[1] != null ? args[1] : db;

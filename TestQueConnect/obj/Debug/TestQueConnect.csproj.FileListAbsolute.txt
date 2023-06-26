@@ -6,3 +6,12 @@ C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnec
 C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.exe
 C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.pdb
 C:\Users\user\source\repos\TestQueConnect\TestQueConnect\obj\Debug\TestQueConnect.csprojAssemblyReference.cache
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\bin\Debug\TestQueConnect.exe.config
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\bin\Debug\TestQueConnect.exe
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\bin\Debug\TestQueConnect.pdb
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\bin\Debug\QueueConnect.dll
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\obj\Debug\TestQueConnect.csproj.AssemblyReference.cache
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\obj\Debug\TestQueConnect.csproj.CoreCompileInputs.cache
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\obj\Debug\TestQueConnect.csproj.CopyComplete
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\obj\Debug\TestQueConnect.exe
+C:\Users\Bhim\Source\Repos\testqueueconsole\TestQueConnect\obj\Debug\TestQueConnect.pdb
